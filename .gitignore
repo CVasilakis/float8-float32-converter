@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+# cmake
+build/
+
+# vscode
+.vscode/
+
 # Object files
 *.o
 *.ko
