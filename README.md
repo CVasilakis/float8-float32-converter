@@ -1,6 +1,6 @@
 # Float8 - Float32 Converter
 
-An extendable and lightweight C library designed to convert between 8-bit floating-point numbers (float8) and single-precision floating-point numbers (float32). This library supports all possible float8 formats (Sign-Exponent-Mantissa combinations). It also implements special cases such as subnormal numbers and infinity. Finally it is fully compatible with the C99 standard.
+An extendable and lightweight C library designed to convert between 8-bit floating-point numbers (float8) and single-precision floating-point numbers (float32). This library supports all possible float8 formats (Sign-Exponent-Mantissa combinations). It also implements special cases such as subnormal numbers and infinity. Fully compatible with the C99 standard, this project is developed in conjunction with the research presented [here](https://doi.org/10.3390/software4020011).
 
 ## How to Build
 
